@@ -1,0 +1,17 @@
+{
+    "name": "bellwethercoffee-sw/echo-module",
+    "description": "Demo for Module pattern.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BellwethercoffeeSw\\EchoModule\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bellwether Coffee"
+        }
+    ],
+    "require": {}
+}
